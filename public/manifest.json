@@ -1,0 +1,10 @@
+{
+  "name": "Career Compass - Coddle Coddle",
+  "short_name": "Career Compass",
+  "description": "Your private career management workspace",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#dfcfc5",
+  "theme_color": "#dfcfc5",
+  "orientation": "portrait"
+}
