@@ -9,8 +9,6 @@ const nextConfig = {
       },
     ],
   },
-  // Netlify deployment configuration
-  output: 'standalone',
   // Disable type checking during build (types work at runtime)
   typescript: {
     ignoreBuildErrors: true,
