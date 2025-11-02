@@ -119,7 +119,7 @@ export default function WritingCoach() {
             <div>
               <h3 className="text-lg font-bold text-black mb-2">Your Writing Coach</h3>
               <p className="text-sm text-sage-gray mb-3">
-                I'm here to help with any writing task. Ask questions, get feedback, or use the quick actions below.
+                I&apos;m here to help with any writing task. Ask questions, get feedback, or use the quick actions below.
               </p>
               <div className="space-y-2 text-sm text-black">
                 <div className="flex items-center gap-2">

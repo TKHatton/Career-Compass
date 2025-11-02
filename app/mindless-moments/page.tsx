@@ -26,7 +26,7 @@ export default async function MindlessMomentsPage() {
           </h2>
           <p className="text-sm text-sage-gray">
             Sometimes the best ideas come when we step away and do something mindless.
-            Use this space to draw, doodle, or simply relax. There's no right or wrong way to create here.
+            Use this space to draw, doodle, or simply relax. There&apos;s no right or wrong way to create here.
           </p>
         </div>
 

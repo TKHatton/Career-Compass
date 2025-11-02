@@ -16,7 +16,7 @@ export default function ScriptureTile() {
         </div>
         <div className="flex-1">
           <p className="text-base text-black leading-relaxed mb-2 font-medium">
-            "{verse.text}"
+            &ldquo;{verse.text}&rdquo;
           </p>
           <p className="text-sm text-sage-gray font-semibold">{verse.reference}</p>
         </div>

@@ -160,7 +160,7 @@ export default function LetterBuilder() {
           <div>
             <h3 className="text-lg font-bold text-black mb-2">AI-Powered Cover Letters</h3>
             <p className="text-sm text-sage-gray">
-              I'll write a personalized cover letter based on your profile, strengths, and career goals.
+              I&apos;ll write a personalized cover letter based on your profile, strengths, and career goals.
               Each letter is tailored to the specific job and company.
             </p>
           </div>

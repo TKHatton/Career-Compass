@@ -228,7 +228,7 @@ export default function PrivacyControls({ initialSettings }: PrivacyControlsProp
             </p>
             <div className="mb-4">
               <label className="block text-sm text-sage-gray mb-2">
-                Type <strong>"DELETE MY ACCOUNT"</strong> to confirm:
+                Type <strong>&ldquo;DELETE MY ACCOUNT&rdquo;</strong> to confirm:
               </label>
               <input
                 type="text"

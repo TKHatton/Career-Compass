@@ -176,7 +176,7 @@ export default function OnboardingPage() {
                 Welcome to Career Compass
               </h1>
               <p className="text-sage-gray text-lg">
-                Let's take a few moments to understand your career aspirations.
+                Let&apos;s take a few moments to understand your career aspirations.
               </p>
               <p className="text-sage-gray mt-4">
                 This will help me provide personalized guidance and support throughout your journey.
@@ -184,14 +184,14 @@ export default function OnboardingPage() {
             </div>
             <div className="bg-sand-rose p-6 rounded-lg">
               <p className="text-sm text-sage-gray">
-                <strong className="text-black">Privacy First:</strong> All information you share stays private and encrypted. You're in complete control.
+                <strong className="text-black">Privacy First:</strong> All information you share stays private and encrypted. You&apos;re in complete control.
               </p>
             </div>
             <button
               onClick={handleNext}
               className="w-full bg-clay-rose text-white font-medium py-3 px-4 rounded-lg hover:opacity-90 transition-opacity"
             >
-              Let's Get Started
+              Let&apos;s Get Started
             </button>
           </div>
         )}
@@ -201,10 +201,10 @@ export default function OnboardingPage() {
           <div className="space-y-6">
             <div>
               <h2 className="text-2xl font-semibold text-black mb-2">
-                What's your name?
+                What&apos;s your name?
               </h2>
               <p className="text-sage-gray">
-                Let's start with the basics. What should I call you?
+                Let&apos;s start with the basics. What should I call you?
               </p>
             </div>
             <input
@@ -237,7 +237,7 @@ export default function OnboardingPage() {
           <div className="space-y-6">
             <div>
               <h2 className="text-2xl font-semibold text-black mb-2">
-                What's your long-term career goal?
+                What&apos;s your long-term career goal?
               </h2>
               <p className="text-sage-gray">
                 Think big! Where do you see yourself in 5-10 years?
@@ -390,10 +390,10 @@ export default function OnboardingPage() {
           <div className="space-y-6">
             <div className="text-center">
               <h2 className="text-2xl font-semibold text-black mb-2">
-                You're all set!
+                You&apos;re all set!
               </h2>
               <p className="text-sage-gray">
-                Here's what we learned about your career journey:
+                Here&apos;s what we learned about your career journey:
               </p>
             </div>
 

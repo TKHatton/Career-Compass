@@ -270,7 +270,7 @@ export default function LoginPage() {
             </button>
 
             <p className="text-xs text-sage-gray text-center mt-4">
-              Don't have an account?{' '}
+              Don&apos;t have an account?{' '}
               <button
                 type="button"
                 onClick={() => setMode('signup')}

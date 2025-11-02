@@ -256,8 +256,8 @@ export default function DegreeExplorer({ userGoal, userValues }: DegreeExplorerP
               className="w-full px-4 py-3 border border-sage-gray rounded-2xl focus:outline-none focus:ring-2 focus:ring-clay-rose"
             >
               <option value="">Select...</option>
-              <option value="bachelor">Bachelor's</option>
-              <option value="master">Master's</option>
+              <option value="bachelor">Bachelor&apos;s</option>
+              <option value="master">Master&apos;s</option>
               <option value="phd">PhD</option>
               <option value="certificate">Certificate</option>
               <option value="diploma">Diploma</option>

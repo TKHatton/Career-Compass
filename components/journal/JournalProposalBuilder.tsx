@@ -176,7 +176,7 @@ export default function JournalProposalBuilder() {
           <div>
             <h3 className="text-lg font-bold text-black mb-2">AI-Powered Research Proposals</h3>
             <p className="text-sm text-sage-gray">
-              I'll help you craft a formal research proposal with proper academic structure.
+              I&apos;ll help you craft a formal research proposal with proper academic structure.
               Provide as much detail as possible for the best results.
             </p>
           </div>

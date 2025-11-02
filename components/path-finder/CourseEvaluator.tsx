@@ -257,7 +257,7 @@ export default function CourseEvaluator({ userGoal, userValues }: CourseEvaluato
 
         <div>
           <label className="block text-sm font-medium text-black mb-2">
-            Skills You'll Gain
+            Skills You&apos;ll Gain
           </label>
           <input
             type="text"

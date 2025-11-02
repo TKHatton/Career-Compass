@@ -243,7 +243,7 @@ export default function DrawingCanvas() {
               Clear Canvas?
             </h3>
             <p className="text-sm text-sage-gray mb-6">
-              This will erase your current drawing. Make sure you've saved it if you want to keep it!
+              This will erase your current drawing. Make sure you&apos;ve saved it if you want to keep it!
             </p>
             <div className="flex gap-3">
               <button
