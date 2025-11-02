@@ -1,18 +1,12 @@
 [build]
   command = "pnpm build"
-  publish = ".next"
+  # Don't set publish directory - let Next.js plugin handle it
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"
 
 [build.environment]
-  NODE_VERSION = "18"
-
-# Redirects for SPA routing
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
+  NODE_VERSION = "20"
 
 # Security headers
 [[headers]]
