@@ -320,10 +320,6 @@ export default function LoginPage() {
                 Sign up
               </button>
             </p>
-
-            <p className="text-xs text-sage-gray text-center border-t border-sage-gray pt-3 mt-3">
-              Testing: test@example.com / testpassword123
-            </p>
           </form>
         )}
 
